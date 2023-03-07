@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<api-keys>
+    <api-key>
+        <key>RGAPI-b27a3ff5-ff7d-4309-b174-cc94e049e674</key>
+        <account>sekyh</account>
+        <rate-limits>
+            <second>20</second>
+            <minutes>100</minutes>
+        </rate-limits>
+    </api-key>
+</api-keys>
